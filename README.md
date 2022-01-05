@@ -3,4 +3,4 @@
 2. 《模态逻辑教程》部分习题解答。
 
 # 使用说明
-由于 github 无法自动预览 LaTeX 公式，读者可下载 md 文件后在支持 Markdown 预览的编辑器（例如 [Typora](https://typora.io/)）中查看内容。
+由于 github 无法自动预览 LaTeX 公式，读者可下载 md 文件后在支持 Markdown 预览的编辑器（例如 [Mark Text](https://marktext.app/) 或 [Typora](https://typora.io/)）中查看内容。
